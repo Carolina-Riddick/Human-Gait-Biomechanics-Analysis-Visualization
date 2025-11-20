@@ -3,7 +3,8 @@
 ### 🇦🇺 Version
 
 ### 1. Tracker Gait Analysis
-File: tracker_gait_analysis.csv
+- File: tracker_gait_analysis.csv
+- Application: https://opensourcephysics.github.io/tracker-website/
 
 _What it contains:_
 
@@ -147,7 +148,9 @@ Reference: Arnold, A.S., & Delp, S.L. (2001). Computer models of lower extremity
 ----
 ### 🇦🇷 Version
 
-### Tracker Gait Analysis - Archivo: tracker_gait_analysis.csv
+### Tracker Gait Analysis 
+- Archivo: tracker_gait_analysis.csv
+- Aplicacion: https://opensourcephysics.github.io/tracker-website/
 
 ### _Qué contiene:_
 
